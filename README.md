@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![ScreenShot](https://raw.githubusercontent.com/Canakgn1/Product-preview-card-component/main/Screenshot.PNG)
 
 ## My process
 
